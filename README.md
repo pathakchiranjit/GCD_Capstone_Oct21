@@ -28,6 +28,8 @@ As a part of these **digital approach**, one of the big tech giants hires **INSA
 
 <img src="https://github.com/pathakchiranjit/GCD_Capstone_Oct21/blob/main/Picture/Pic_5.JPG?raw=true" align='left'><br/>
 
+
+
 ### **Weekly Goals for the team?**:
 The DS consultant team will follow the below week-wise goals,
 
